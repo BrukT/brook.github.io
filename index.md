@@ -1,7 +1,19 @@
-## Welcome to My page
+## Welcome to My portfolio page
 
 I am **Bruk**. <br>
 
-I will update the contents and made it available soon.
+### Education
+#### University of Pisa: 
+MSc in Computer Engineering
 
-until then ...
+#### Hawassa University: 
+BSc in Electrical and Computer Engineering
+
+### Work Experience
+#### Hawassa University:
+role: Teaching Assistant
+
+#### Icog_Labs: 
+role: intern
+
+
