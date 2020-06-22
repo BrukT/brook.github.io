@@ -7,13 +7,26 @@ I am **Bruk**. <br>
 MSc in Computer Engineering: 10/2018 - present
 
 #### Hawassa University: 
-BSc in Electrical and Computer Engineering: 09/2016 - 09/2018
+BSc in Electrical and Computer Engineering: 10/2011-07/2016
+
+#### Online Courses:
+site: Coursera
+courses: 
+* Data Science with R, 
+* Web development: JavaScript and Bootstrap
+* Machine Learning: Octave 
+* ...
 
 ### Work Experience
 #### Hawassa University:
-role: Teaching Assistant
+Position: Teaching Assistant
+Role: Tutorials, Giving Labs
+duration: 09/2016 - 09/2018
 
 #### Icog_Labs: 
-role: intern
+position: full time paid intern
+role: Software Programmer
+duration: 07/2015 – 01/2016
+
 
 
