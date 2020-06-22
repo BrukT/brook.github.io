@@ -28,5 +28,7 @@ position: full time paid intern <br />
 role: Software Programmer <br />
 duration: 07/2015 – 01/2016
 
+### Contact
+brukteka@gmail.com
 
 
