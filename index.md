@@ -20,7 +20,7 @@ courses:
 ### Work Experience
 #### Hawassa University:
 Position: Teaching Assistant <br />
-Role: Tutorials, Giving Labs  <br />
+Role: Giving Tutorials, Labs  <br />
 Duration: 09/2016 - 09/2018 <br />
 
 #### Icog_Labs: 
