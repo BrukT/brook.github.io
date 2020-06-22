@@ -10,7 +10,7 @@ MSc in Computer Engineering: 10/2018 - present
 BSc in Electrical and Computer Engineering: 10/2011-07/2016
 
 #### Online Courses:
-site: Coursera <br>
+Site: coursera.org <br>
 courses: 
 * Data Science with R, 
 * Web development: JavaScript and Bootstrap
@@ -20,7 +20,7 @@ courses:
 ### Work Experience
 #### Hawassa University:
 Position: Teaching Assistant <br />
-Role: Giving Tutorials, Labs  <br />
+Role: Giving Tutorials and Labs, Assisting Research  <br />
 Duration: 09/2016 - 09/2018 <br />
 
 #### Icog_Labs: 
