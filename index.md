@@ -31,4 +31,4 @@ duration: 07/2015 – 01/2016
 ### Contact
 brukteka@gmail.com
 
-
+[Linkedin Profile](https://www.linkedin.com/in/bruk-gurmesa-467a48113/)
