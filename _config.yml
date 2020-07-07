@@ -16,7 +16,6 @@ primarylinks:
    
 #buzzword skills
 skills:
- - Flask
  - REST
  - JDBC
  - Bootstrap
@@ -25,7 +24,9 @@ skills:
  - Maven
  - SQL
  - NOSQL
- - Technical Architecture
+ - Docker
+ - Git
+ - Flask
  - SDN
  
 #Work experience is required
