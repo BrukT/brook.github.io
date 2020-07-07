@@ -1,1 +1,77 @@
-theme: jekyll-theme-dinky
+#theme: jekyll-theme-dinky
+title: BrukT
+twitter_username: Bruk_G_
+name: Bruk Gurmesa
+
+markdown: kramdown
+
+#Links that will appear in the navbar
+primarylinks:
+ - title: GitHub
+   url: https://github.com/brukt
+ - title: StackOverflow
+   url: https://stackoverflow.com/users/7693938/b-tek
+ - title: LinkedIn
+   url: https://www.linkedin.com/in/bruk-gurmesa-467a48113/
+   
+#buzzword skills
+skills:
+ - Flask
+ - REST
+ - JDBC
+ - Bootstrap
+ - Product management
+ - Machine Learning
+ - Maven
+ - SQL
+ - NOSQL
+ - Technical Architecture
+ - SDN
+ 
+#Work experience is required
+roles:
+ - title: Teaching assistant
+   start: Dec, 2016
+   end: Sept, 2018
+   employer: Hawassa University
+   description: Higher Education instution
+ - title: Software Developer
+   start: July 2015
+   end: February 2016
+   employer: iCog_Labs
+   description: iCog Labs is a research and development company based in Addis Ababa, Ethiopia, collaborating with international AI research groups and serving customers around the world. We have helped our customers with a variety of projects, but our core specialty is artificial intelligence, including machine learning based data analysis, computational linguistics, computer vision, mobile robots and cognitive robotics, cognitive architectures and artificial general intelligence.
+
+#Educations 
+education:
+ - level: Master of Science (M.Sc.)
+   date: 2020
+   subject: Computer Engineering
+   specialization: Computer Systems and Networking
+   school: School of Information Enginering
+   University: University of Pisa
+ - level: Bachelor of Science (B.Sc.)
+   date: 2016
+   subject: Electrical and Computer Engineering
+   specialization: Computer Engineering
+   school: School of Electical and Computer engineering
+   University: Hawassa University
+
+#This section is optional (as is the image link below)
+coursera:
+   profileurl: https://www.coursera.org/user/fbb0d14f72f5e33fc85f15a1ddedca1d
+   courses:
+    - title: r programming
+      link: https://www.coursera.org/learn/r-programming
+      optionalimage: https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/5e/b4ef8069b511e3ae92c39913bb30e0/Rprogramming.jpg
+      date: September 16, 2013
+      
+#List of interesting Github repo/projects to include
+github:
+ - brukt/mpls-te
+ - brukt/flask-blog
+ - brukt/mongo_replicaset
+ 
+intro: |
+  I am an engineer with 2 years experience working in technology. I have primarily worked on Java, but have worked across a broad range of technologies there on: C++, Android, Bootstrap and most recently Python. As well as spending a reasonable amount of time building applications for the web, which has given me an exposure to a range of javascript technologies over the years, through jQuery, extjs, knockout, backbone and most recently to React. <br/><br/>
+  I enjoy building interesting products, with a good Product Management focus and a good emphasis on good engineering principles and clean code (having worked across differing languages on the JVM, I recognise that good code is contextual).<br/><br/>
+  I have worked in large scale consultancy roles across Europe as well as a mix of startup experience (including one that was acquired) and I am currently the Chief Technology Officer at a legal-tech startup called <a href="https://www.basementcrowd.com" target="_blank">Basement Crowd</a> where we are building innovative products to serve the legal industry.
