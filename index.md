@@ -6,10 +6,10 @@ As you have probably know, I am **Bruk**.<br>
 #### University of Pisa:  
 MSc in Computer Engineering: 10/2018 - near future <br />
 Now doing My Thesis on: <br />
-- **Integration of CoAP-based sensors into the KubeEdge Fog/Edge computing platform** <br />
+* **Integration of CoAP-based sensors into the KubeEdge Fog/Edge computing platform** <br />
 
 coding with: 
-- **GO** programming language
+* **GO** programming language
 
 #### Hawassa University: 
 BSc in Electrical and Computer Engineering: 10/2011-07/2016
