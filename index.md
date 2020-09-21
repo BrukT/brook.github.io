@@ -1,6 +1,6 @@
 ## Welcome to My portfolio page
 
-As you have probably know, I am **Bruk**.<br>
+As you probably know, I am **Bruk Gurmesa**.<br>
 
 ### Education
 #### University of Pisa:  
