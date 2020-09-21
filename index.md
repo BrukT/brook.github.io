@@ -4,8 +4,8 @@ I am **Bruk**. <br>
 
 ### Education
 #### University of Pisa:  
-MSc in Computer Engineering: 10/2018 - near future </br>
-Now doing My Thesis on: </br>
+MSc in Computer Engineering: 10/2018 - near future <br />
+Now doing My Thesis on: <br />
 *Integration of CoAP-based sensors into the KubeEdge Fog/Edge computing platform*
 
 
