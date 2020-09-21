@@ -13,7 +13,7 @@ Now doing My Thesis on: <br />
 BSc in Electrical and Computer Engineering: 10/2011-07/2016
 
 #### Online Courses:
-Site: coursera.org <br>
+Provider: coursera.org <br>
 courses: 
 * Data Science with R, 
 * Web development: JavaScript and Bootstrap
