@@ -6,7 +6,7 @@ please follow the **`github profile`** button on the left to go through my publi
 
 ### Education
 #### University of Pisa:  
-MSc in Computer Engineering: 10/2018 - near future <br />
+MSc in Computer Engineering: 10/2018 - 11/2020 <br />
 Now doing My Thesis on: <br />
 * **Integration of CoAP-based sensors into the KubeEdge Fog/Edge computing platform** <br />
 
