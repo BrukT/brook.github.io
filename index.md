@@ -2,7 +2,7 @@
 
 As you probably know, I am **Bruk Gurmesa**.<br>
 
-please follow the **`github profile`** button on the left to go through my public projects. 
+>> please follow the **`github profile`** button on the left to go through my public projects. 
 
 ### Education
 #### University of Pisa:  
