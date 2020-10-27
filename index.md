@@ -2,6 +2,8 @@
 
 As you probably know, I am **Bruk Gurmesa**.<br>
 
+please follow the **`github profile`** button on the left to go through my public projects. 
+
 ### Education
 #### University of Pisa:  
 MSc in Computer Engineering: 10/2018 - near future <br />
@@ -21,6 +23,8 @@ courses:
 * Web development: JavaScript and Bootstrap
 * Machine Learning: Octave 
 * ...
+
+*certificates are attached at my linkedin profile [page](https://www.linkedin.com/in/bruk-gurmesa-467a48113/)*
 
 ### Work Experience
 #### Hawassa University:
