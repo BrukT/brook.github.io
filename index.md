@@ -24,7 +24,7 @@ courses:
 * Machine Learning: Octave 
 * ...
 
-*certificates are attached at my linkedin profile [page](https://www.linkedin.com/in/bruk-gurmesa/)*
+*certificates are attached at my linkedin profile [page](https://www.linkedin.com/in/brukt/)*
 
 ### Work Experience
 #### Hawassa University:
@@ -40,4 +40,4 @@ duration: 07/2015 – 01/2016
 ### Contact
 brukteka@gmail.com
 
-[Linkedin Profile](https://www.linkedin.com/in/bruk-gurmesa/)
+[Linkedin Profile](https://www.linkedin.com/in/brukt/)
