@@ -41,3 +41,4 @@ duration: 07/2015 – 01/2016
 brukteka@gmail.com
 
 [Linkedin Profile](https://www.linkedin.com/in/brukt/)
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
