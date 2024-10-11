@@ -6,21 +6,21 @@ I am into Scalable Solutions. Whether it is big data processing or inference.
 ### Cloud Certifications
 
 #### AWS Certified Developer Associate (DVA-C01) 
-https://www.credly.com/badges/0a7a3ca7-4f42-4ad6-bc9b-148ec19e7e19/public_url
+[https://www.credly.com/badges/0a7a3ca7-4f42-4ad6-bc9b-148ec19e7e19/public_url](https://www.credly.com/badges/0a7a3ca7-4f42-4ad6-bc9b-148ec19e7e19/public_url)
 
 #### GCP Certified Professional Data Engineer
-https://google.accredible.com/6b6e054d-aba3-40d9-9707-cbcc5b7fde3a
+[https://google.accredible.com/6b6e054d-aba3-40d9-9707-cbcc5b7fde3a](https://google.accredible.com/6b6e054d-aba3-40d9-9707-cbcc5b7fde3a)
 
 ### Work Experience
 
-#### Ford Motor Company, Remote, USA May 2023 – today
-Ford Motor Company is an American multinational automobile manufacturer headquartered in Dearborn, Michigan, United States. As A GCP data Engineer worked in: 
-Tasks Performed:
--	Landing, Curating and Publishing various types of manufacturing data to make it available for various BI Dashboards via Bigquery.
--	Migrating on premises scala based workload to dataform based pipeline on GCP. 
--	Took a role of Data Engineer as part of an End-to-End team dedicated for real-time anomaly detection, where I architected and delivered realtime streaming pipelines with a sub-three-second latency using GCP Dataflow. 
--	Investigate and provide non resource intensive (cost saving) solutions to reduce cloud utilization costs. This enabled swift anomaly detection and improved operational responsiveness. 
--	Also worked on a RAG-based LLM chat application. Prepared a knowledge base for the LLM Model using text corpse of maintenance manual. Implemented a REST protocol-based Access to the LLM chatbot using API Gateway and Lambda function. 
+#### Ford Motor Company, USA May 2023 – today
+Ford Motor Company needs no introduction. headquartered in Dearborn, Michigan, United States. As A GCP data engineer  
+Performed The following tasks:
+-	Migrating on-premises scala-based workload to the dataform-based pipeline on GCP. 
+-	part of an End-to-End team dedicated to real-time anomaly detection, where I architected and delivered real-time streaming pipelines with a sub-three-second latency using GCP Dataflow. 
+-	Investigate and provide non resource-intensive (cost-saving) solutions to reduce cloud utilization costs. This enabled swift anomaly detection and improved operational responsiveness. 
+-	Also worked on RAG-based LLM chat application. Prepared a knowledge base for the LLM Model using text corpse of the maintenance manual. Implemented a REST protocol-based Access to the LLM chatbot using API Gateway and Lambda function.
+- Curating, and Publishing various types of IOT data to make it available for BI Dashboards and ML Usecases via Bigquery.
 
 Technologies used: GCP dataflow, Dataproc, bigquery, dataform, cloud build, terraform, github actions, aws api gateway, aws bedrock, spark, apache beam, dbt, airflow, kafka, mqtt
 
