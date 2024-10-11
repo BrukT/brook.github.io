@@ -1,6 +1,15 @@
 ## Welcome to My page
 
-As you probably know, I am **Bruk Gurmesa**.<br>
+As you probably know, I am **Bruk Gurmesa**.<be>
+I am into Scalable Solutions. Whether it is big data processing or inference. 
+
+### Cloud Certifications
+
+#### AWS Certified Developer Associate (DVA-C01) 
+https://www.credly.com/badges/0a7a3ca7-4f42-4ad6-bc9b-148ec19e7e19/public_url
+
+#### GCP Certified Professional Data Engineer
+https://google.accredible.com/6b6e054d-aba3-40d9-9707-cbcc5b7fde3a
 
 ### Work Experience
 
