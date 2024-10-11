@@ -2,8 +2,6 @@
 
 As you probably know, I am **Bruk Gurmesa**.<br>
 
->> please follow the **`github profile`** button on the left to go through my public projects. 
-
 ### Work Experience
 
 #### Ford Motor Company, Remote, USA May 2023 – today
