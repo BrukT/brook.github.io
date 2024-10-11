@@ -13,14 +13,17 @@ I am into Scalable Solutions. Whether it is big data processing or inference.
 
 ### Work Experience
 
-#### Ford Motor Company, USA May 2023 – today
-Ford Motor Company needs no introduction. headquartered in Dearborn, Michigan, United States. As A GCP data engineer  
-Performed The following tasks:
--	Migrating on-premises scala-based workload to the dataform-based pipeline on GCP. 
--	part of an End-to-End team dedicated to real-time anomaly detection, where I architected and delivered real-time streaming pipelines with a sub-three-second latency using GCP Dataflow. 
--	Investigate and provide non resource-intensive (cost-saving) solutions to reduce cloud utilization costs. This enabled swift anomaly detection and improved operational responsiveness. 
--	Also worked on RAG-based LLM chat application. Prepared a knowledge base for the LLM Model using text corpse of the maintenance manual. Implemented a REST protocol-based Access to the LLM chatbot using API Gateway and Lambda function.
-- Curating, and Publishing various types of IOT data to make it available for BI Dashboards and ML Usecases via Bigquery.
+#### [Ford Motor Company](https://www.ford.com/), USA May 2023 – today
+As a Data Engineer, My roles include but not limited to: 
+-	Landing, Curating and Publishing various types of manufacturing data to make it available for various BI Dashboards via Bigquery. Integration of data loss prevention protocols.
+-	Migrating bigdata transformation written in Scala to Dataform & Bigquery based workloads on GCP. 
+-	as part of an End-to-End team dedicated to real-time anomaly detection, where I architected and delivered real-time streaming pipelines with a sub-three-second latency using GCP Dataflow, Confluent Kafka and PubSub. 
+-	Investigate, provide and implement (cost saving) solutions to reduce cloud storage and processing costs. Help keep the running cost of the team with in budget.
+- worked on a RAG based LLM chat application. Specifically Prepared a knowledge base for the LLM Model using text corpse of maintenance manual. Implemented a REST protocol-based Access to the LLM chatbot using API Gateway and Lambda function. 
+-	Worked on feature engineering preparing ready to use features using Astronomer and Dataflow batch and streaming pipelines.
+-	Periodically checking for new bugs in existing dependencies and base container images. Introduce changes and upgrades when vulnerabilities arise.
+-	Build and Maintain CICD pipelines using GCP cloud build.
+
 
 Technologies used: GCP dataflow, Dataproc, bigquery, dataform, cloud build, terraform, github actions, aws api gateway, aws bedrock, spark, apache beam, dbt, airflow, kafka, mqtt
 
