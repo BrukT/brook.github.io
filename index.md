@@ -27,7 +27,7 @@ As a Data Engineer, My roles include but not limited to:
 
 Technologies used: GCP dataflow, Dataproc, bigquery, dataform, cloud build, terraform, github actions, aws api gateway, aws bedrock, spark, apache beam, dbt, airflow, kafka, mqtt
 
-#### Reply S.p.A, Turin, Italy November 2020 – April 2023
+#### [Reply S.p.A](https://www.reply.com/en), Italy November 2020 – April 2023
 Reply is an Italian origin international information technology services and consulting company with over 10,500 employees worldwide. Through various reply sister companies I consulted with the following roles. 
 
 As GCP Data Engineer, for client named Intesa Sanpaolo S.p.A, I worked on integrating on-prem data infrastructure with GCP cloud to run data intensive and sporadic ETL processes on the cloud and report result back to on-prem. Design and Mockup testing. 
