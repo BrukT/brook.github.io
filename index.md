@@ -4,6 +4,8 @@ As you probably know, I am **Bruk Gurmesa**.<be>
 I am into Scalable Solutions. Whether it is big data processing or inference. 
 
 ### Cloud Certifications
+#### AWS Certified Machine Learning Speciality (MLS-C01)
+[https://www.credly.com/badges/ac447329-747e-4fa6-8c23-7306920230b9/public_url](https://www.credly.com/badges/ac447329-747e-4fa6-8c23-7306920230b9/public_url)
 
 #### AWS Certified Developer Associate (DVA-C01) 
 [https://www.credly.com/badges/0a7a3ca7-4f42-4ad6-bc9b-148ec19e7e19/public_url](https://www.credly.com/badges/0a7a3ca7-4f42-4ad6-bc9b-148ec19e7e19/public_url)
@@ -13,7 +15,7 @@ I am into Scalable Solutions. Whether it is big data processing or inference.
 
 ### Work Experience
 
-#### [Ford Motor Company](https://www.ford.com/), USA May 2023 – today
+#### [Ford Motor Company](https://www.ford.com/), USA May 2023 – Today
 As a Data Engineer, My roles include but not limited to: 
 -	Landing, Curating and Publishing various types of manufacturing data to make it available for various BI Dashboards via Bigquery. Integration of data loss prevention protocols.
 -	Migrating bigdata transformation written in Scala to Dataform & Bigquery based workloads on GCP. 
